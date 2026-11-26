@@ -1,0 +1,4 @@
+clickhouse-connect==1.13.0
+prettytable==3.19.0
+python-dotenv==1.2.4
+matplotlib==3.11.2
